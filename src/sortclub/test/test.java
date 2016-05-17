@@ -1,5 +1,8 @@
 package sortclub.test;
 
+import java.util.Arrays;
+import java.util.regex.Pattern;
+
 import sortclub.sort.BubbleSort;
 
 public class test {
