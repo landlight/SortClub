@@ -1,7 +1,7 @@
 # SortClub
 The Library for Sorting Algorithms implemented in Java.
 
-The project is under MIT liscense.
+This project is under MIT liscense.
 
 #Current Sortings List
 BubbleSort
