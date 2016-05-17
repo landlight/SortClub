@@ -18,10 +18,12 @@ public class BubbleSort implements iSort{
 
 					//System.out.println(arr[i-1] + "," + arr[i]);
 					swapped = true;
-					for (String j : items){
+					
+					//printing the sorting steps
+					/*for (String j : items){
 			 			System.out.print("|"+ j + "|");
 			 		}
-					System.out.println();
+					System.out.println();*/
 				}
 			}
 		}
@@ -44,10 +46,11 @@ public class BubbleSort implements iSort{
 
 					//System.out.println(arr[i-1] + "," + arr[i]);
 					swapped = true;
-					for (int j : items){
+					//printing the sorting steps
+					/*for (int j : items){
 			 			System.out.print("|"+ j + "|");
 			 		}
-					System.out.println();
+					System.out.println();*/
 				}
 			}
 		}
