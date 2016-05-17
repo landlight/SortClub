@@ -2,10 +2,10 @@
 A Place For Sorting Algorithms in Java
 
 
-#Current Sortings 
-#BubbleSort
+#Current Sortings List
+BubbleSort
 
-Usage
+#Usage
 BubbleSort bubble = new BubbleSort(); 
 
 bubble.stringSort(String[] items) -- returns sorted String[] 
