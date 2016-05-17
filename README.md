@@ -1,7 +1,8 @@
 # SortClub
 A Place For Sorting Algorithms in Java
 
-Current Sortings 
+
+#Current Sortings 
 #BubbleSort
 
 Usage
