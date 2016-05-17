@@ -1,6 +1,6 @@
 package sortclub.sort;
 
-public class BubbleSort extends Sort{
+public class BubbleSort implements iSort{
 
 	@Override
 	public String[] stringSort(String[] items) {
