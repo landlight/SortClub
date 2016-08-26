@@ -20,7 +20,3 @@ QuicSort quick = new QuickSort();
 quick.stringSort(String[] items) -- returns sorted String[] 
 
 quick.intSort(int[] items) -- returns sorted int[]
-
-#For the sorting library in C# you can go to this repository:
-https://github.com/IdolKeg/SortLib
-
